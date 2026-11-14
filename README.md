@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" width="100%" alt="Soumyajit Jana - Developer Banner"/>
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Soumyajit Jana
